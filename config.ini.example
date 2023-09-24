@@ -1,0 +1,9 @@
+[Resources]
+image=path to test image
+video=path to test video
+dll=path to dll
+model=path to model
+
+[Data]
+digits=path to original images for creating dataset
+dataset=path to dataset for OCR training
