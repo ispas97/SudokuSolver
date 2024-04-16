@@ -1,0 +1,76 @@
+﻿  FindingHomographyFunctions.cpp
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(43,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(47,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(61,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(65,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(76,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(78,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(120,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(124,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(145,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(165,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(214,34): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(214,12): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(227,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(267,39): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(267,26): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(268,52): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(268,32): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(269,58): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(269,32): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(270,45): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(270,26): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(294,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(295,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(300,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(348,38): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\SSOLVER\ARSudokuSolver-main\Testing123\Testing123\FindingHomographyFunctions.cpp(348,14): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Testing123.vcxproj -> D:\SSOLVER\ARSudokuSolver-main\Testing123\x64\Debug\Finding Lines.exe
